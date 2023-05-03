@@ -9,11 +9,11 @@
     <style type="text/css">
         table tr td,
         table tr th {
-            font-size: 9pt;
+            font-size: 12pt;
         }
     </style>
     <center>
-        <h5>Laporan Artikel</h4>
+        <h5>Laporan Artikel</h5>
     </center>
     <table class='table table-bordered'>
         <thead>
